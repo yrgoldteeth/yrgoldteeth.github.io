@@ -1,0 +1,40 @@
+---
+layout: post
+title: PGP Key
+---
+If you need to send me anything via email that only I can decrypt, you
+can encrypt it with my public key:
+
+    -----BEGIN PGP PUBLIC KEY BLOCK-----
+    Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+    Comment: GPGTools - https://gpgtools.org
+
+    mQENBFOKdmUBCADdShn+UywEmjew5pqdD4x6T0aFl+kcnsp3Us8t0OEX4dOPOfWo
+    I1XttIMV+2UYYdWxNt7ukerMDHfCniANWoN08Kl6GUKwotj/MZNN6ngE4VqGgufz
+    rHyN/t+aN+WJG/FCaeSXWZxsVxRC1d3vzH3HsGHmqT+aj9GmnHpGRAzOB5R8kU4U
+    yrS66W/LnGW5NXXcK+GOjlPQvUh7XGUM4g+GeUFk8GP7G1nKH3ovwB28cdW5OEHh
+    Dq+kpaD83NT57dHEaF4+hr6ZGXNWJZBa+IjxhaQkVh+4jiaaS8QxwZAq3KA4a0lS
+    LFRWVy75ROhvSX9LiVqRk1s6BdqgDs07flG/ABEBAAG0H05pY2hvbGFzIEZpbmUg
+    PG5pY2tAbmRmaW5lLmNvbT6JAT0EEwEKACcFAlOKdmUCGwMFCQeGH4AFCwkIBwMF
+    FQoJCAsFFgIDAQACHgECF4AACgkQYWPAS88f028rLQf/fvcPCsKCDDDhgMoH8/f4
+    QSdfudfEFyvTtjXTvFE8+UVc5rpJRPgqZD+OMA6eGNdFk2BMfZ8zEQ2jJOBOxwMd
+    dbV5zkK/KTXoDjEHVjebcoFtjb08zDc75sXUCYZg/RZpxHAxhKZv9E5eCp3ekHV/
+    WKunjLohZmldPp2GDCNixvRn16RWkYLzKxicOMz19fmZjZlAAE8I34RV/u+sMyJS
+    NC9LCHzXPvr1z4HJhdrifntEkkYpBlIJ/xhDCv9sXZ855aaK2HaBRVuFrn6qx/10
+    GjcY3kBLgPLPxl6pqGi1XGLvQ6TPtEOAMJwb7di4xbnDe5mYjH5FFrvqbsGH+TPX
+    4LkBDQRTinZlAQgA/DhBlVx1NZQfwPJR505XIual7QPcADI7dmbmZq4mN0s9uA9k
+    XFhEseDZsFo2mLJm5HDYubkgi6/8MY0pnpUlICL0lFKiOqMf5zPWrU7ZWycDIOyg
+    YtGzRnCER0gQmQsdCOkewj0Dr+YJTzLNnTuLgPHe/T9YonBNm9WY7t2a0HV+f1vN
+    ZY+Ynnvd6gcpbiLIJ92T9ei34y+u0m1peuBK20ulgfUniAdOeHP/SwZmT3ABmo1b
+    i3qmcOCO4uol42qFwPzKGx9WtEKJ6wG2m8NXRsaCnWAOW5dAT1Aq4Pq1hZuK2ZMc
+    ZbHle6GQeQvkuSXGCygM58L+kQr9MtQRCYVFdwARAQABiQElBBgBCgAPBQJTinZl
+    AhsMBQkHhh+AAAoJEGFjwEvPH9Nv5MMIAI9NDAHJEX8kT6kCyE3W164VJfvfbUn+
+    CnnCTTjoiiiBV50biCDQ0SYC6NQqR3RWnlAxCr684b6vDbd+YOk4pg9cEkwagz+f
+    l3px8lLAotGhMkUw7CCiGPNYpB+ny2YSbDVV9ipBAsBLYPiHs8q8e39wsx20018t
+    onG/48dZVWdVSbJGcB6KYAie7nPyNBJdhcm0LuFHE7S+VBkI98M9L4DzW85dQrFn
+    4DXGyNVJOSUfjPdh3DbH6bihqmaRLOgfcMWDyBlFHeHWqzmwVGpcCl3rdt7WbpWa
+    F//wZ8GHmAg7gmoh4q2wMpqp/kuSZliC97PnYjFmFtJ7PdNXuRbL/mk=
+    =3pHs
+    -----END PGP PUBLIC KEY BLOCK-----
+
+You can also find it linked [here](http://shots.ndf.es/ndfine.asc).
