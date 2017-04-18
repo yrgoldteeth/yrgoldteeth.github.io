@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: Alice's Restaurant, Gritty Thriller Edition
-pinboard: true
-author: Josh Millard
+cite_author: Josh Millard
 cite_url: http://www.joshmillard.com/2012/11/22/alices-restaurant-gritty-thriller-edition/
 ---
 ARLO sitting in a holding cell. BIG UGLY approaches, heavy danger vibes,

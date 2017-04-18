@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: linkpost
 title: University of Alabama Football Report for 11/25/11
-pinboard: true
 cite_url: http://bamareport.blogspot.com/2011/11/university-of-alabama-football-report_25.html
-author: J
+cite_author: J
 ---
 Because it is the Iron Bowl, people in the state of Alabama will delay weddings or induce childbirth.
   

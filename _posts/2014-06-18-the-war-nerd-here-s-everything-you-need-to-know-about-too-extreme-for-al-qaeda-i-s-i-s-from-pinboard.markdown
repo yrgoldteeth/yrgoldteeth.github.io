@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: The War Nerd - Here’s everything you need to know about “too extreme for Al Qaeda” I.S.I.S.
-pinboard: true
-author: Gary Brecher
+cite_author: Gary Brecher
 cite_url: http://pando.com/2014/06/16/the-war-nerd-heres-everything-you-need-to-know-about-too-extreme-for-al-qaeda-i-s-i-s/
 ---
 In fact, ISIS’s quarrel with Zawahiri was a lot like a corporate boardroom feud. It’s always worth remembering that Jihadis are just friggin’ people, and their disagreements tend to be about very ordinary organizational issues. Granted, it’s a little harder to see that when they solve those disagreements with public beheadings and overly-cinematic rituals, but at heart this is just standard human behavior—primates squabbling for rank and power, Game of Thrones with Islamic voiceover.

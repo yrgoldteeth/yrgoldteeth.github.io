@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: Stonekettle Station | Afghanistan - The Punch Line
-pinboard: true
-author: Jim Wright
+cite_author: Jim Wright
 cite_url: http://www.stonekettle.com/2012/03/afghanistan-punch-line.html
 ---
 Tens of thousands of supposedly civilized Americans think the senseless

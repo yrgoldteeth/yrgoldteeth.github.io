@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: The Inferno of Independence
-pinboard: true
-author: Frank Chimero
+cite_author: Frank Chimero
 cite_url: http://frankchimero.com/blog/2013/09/the-inferno-of-independence/
 ---
 A mythology of speed is one of willful ignorance to the small details

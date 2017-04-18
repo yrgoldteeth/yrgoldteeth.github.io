@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: linkpost
 title: The sacralized myth of 9/11 - The Spirited Atheist - The Washington Post
-pinboard: true
 cite_url: http://www.washingtonpost.com/blogs/spirited-atheist/post/the-sacralized-myth-of-911/2011/09/07/gIQAIJ8O9J_blog.html?wprss=spirited-atheist
-author: The Spirited Atheist
+cite_author: The Spirited Atheist
 ---
 What sacralizers usually mean when they say “never forget” is, “Never forget the symbolic grievance that we can use for political purposes.” They don’t mean never forget the real horror and pain, experienced individually as well as collectively, of the lives that were lost.  
 

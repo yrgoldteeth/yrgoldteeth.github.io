@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: A Preliminary Phenomenology of the Self-Checkout
-pinboard: true
-author: J.W. Vorvick
+cite_author: J.W. Vorvick
 cite_url: http://thesilenthunger.com/2014/03/a-preliminary-phenomenology-of-the-self-checkout/
 ---
 Alas, like Hamlet’s, even my desperation is performative, in some way. I

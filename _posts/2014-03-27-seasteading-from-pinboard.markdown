@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: Seasteading
-pinboard: true
-author: Charlie Loyd
+cite_author: Charlie Loyd
 cite_url: http://tinyletter.com/vruba/letters/6-3-seasteading
 ---
 Again, your common or garden Valleybro Does Not Get This. He looks for

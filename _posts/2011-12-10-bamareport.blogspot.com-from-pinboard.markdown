@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: linkpost
 title: University of Alabama Football Report for 12/09/11
-pinboard: true
 cite_url: http://bamareport.blogspot.com/2011/12/university-of-alabama-football-report.html
-author: J
+cite_author: J
 ---
 Too many people compare college football to the NFL, but a more accurate analog can be found in another lucrative cartel: the Mexican drug trade. The SEC, like Juarez, may be the focal point of a lot of the action, but even beyond its dominant rep, the game is on all over.
   

@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: linkpost
 title: Elegy Written in a Country Church-Yard
-pinboard: true
 cite_url: http://www.blupete.com/Literature/Poetry/Elegy.htm
-author: Thomas Gray
+cite_author: Thomas Gray
 ---
 Full many a flower is born to blush unseen,
   

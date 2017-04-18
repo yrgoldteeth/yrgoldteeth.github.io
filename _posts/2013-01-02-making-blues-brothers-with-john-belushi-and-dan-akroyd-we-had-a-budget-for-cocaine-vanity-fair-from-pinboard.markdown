@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: Making Blues Brothers With John Belushi and Dan Akroyd | Vanity Fair
-pinboard: true
-author: Ned Zeman
+cite_author: Ned Zeman
 cite_url: http://m.vanityfair.com/hollywood/2013/01/making-of-blues-brothers-budget-for-cocaine
 ---
 Then there’s Aykroyd. Yes, Belushi occasionally tries his patience. At

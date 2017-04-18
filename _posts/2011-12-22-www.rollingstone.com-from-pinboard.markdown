@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: linkpost
 title: A Christmas Message From America's Rich | Matt Taibbi
-pinboard: true
 cite_url: http://www.rollingstone.com/politics/blogs/taibblog/a-christmas-message-from-americas-rich-20111222
-author: Matt Taibbi
+cite_author: Matt Taibbi
 ---
 But it seems to me that if you’re broke enough that you’re not paying any income tax, you’ve got nothing but skin in the game. You’ve got it all riding on how well America works.
   

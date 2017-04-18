@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: linkpost
 title: Damian/Fucked Up on Skrewdriver and the insular nature of hardcore punk | The Guardian
-pinboard: true
 cite_url: http://www.guardian.co.uk/music/musicblog/audio/2011/may/27/music-weekly-kate-bush-tour-audio?commentpage=1#comment-10962211
-author: Damian/Fucked Up
+cite_author: Damian/Fucked Up
 ---
 I am sure my ability to have such an ironic detachment from the band is born out of white privilege which of course has led me to feel conflicted about talking about this band. 
   

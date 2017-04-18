@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: The Ballad of Geeshie and Elvie
-pinboard: true
-author: John Jeremiah Sullivan
+cite_author: John Jeremiah Sullivan
 cite_url: http://www.nytimes.com/interactive/2014/04/13/magazine/blues.html?_r=0
 ---
 He asked about everything, not just music but recipes, dances, games,

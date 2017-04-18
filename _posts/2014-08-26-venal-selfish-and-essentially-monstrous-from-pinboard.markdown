@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: Venal, Selfish, and Essentially Monstrous
-pinboard: true
-author: Rebecca Solnit
+cite_author: Rebecca Solnit
 cite_url: http://bombmagazine.org/article/3327/
 ---
 Elites tend to believe in a venal, selfish, and essentially monstrous version of human nature, which I sometimes think is their own human nature. I mean, people don’t become incredibly wealthy and powerful by being angelic, necessarily. They believe that only their power keeps the rest of us in line and that when it somehow shrinks away, our seething violence will rise to the surface—that was very clear in Katrina. Timothy Garton Ash and Maureen Dowd and all these other people immediately jumped on the bandwagon and started writing commentaries based on the assumption that the rumors of mass violence during Katrina were true. A lot of people have never understood that the rumors were dispelled and that those things didn’t actually happen; it’s tragic.

@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: By Any Other Name
-pinboard: true
-author: Qi
+cite_author: Qi
 cite_url: http://thecodelesscode.com/case/19
 ---
 The old scribe was asked why, in his official accounts, the temples and the clans were named but the many monks and priests were not.

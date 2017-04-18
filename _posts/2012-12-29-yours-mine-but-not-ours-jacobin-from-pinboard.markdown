@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: Yours, Mine, but Not Ours | Jacobin
-pinboard: true
-author: Corey Robin
+cite_author: Corey Robin
 cite_url: http://jacobinmag.com/2012/12/yours-mine-but-not-ours/
 ---
 Because the rhetoric of security is one of universality and neutrality

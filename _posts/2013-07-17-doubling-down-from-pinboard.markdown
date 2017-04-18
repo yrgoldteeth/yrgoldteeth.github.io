@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: Doubling Down
-pinboard: true
-author: David Simon
+cite_author: David Simon
 cite_url: http://davidsimon.com/doubling-down/
 ---
 Why not? Because just as good cannot be truly understood to the marrow

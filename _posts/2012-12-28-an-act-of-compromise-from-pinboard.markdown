@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: An Act Of Compromise
-pinboard: true
-author: Joshua Foer
+cite_author: Joshua Foer
 cite_url: http://www.newyorker.com/reporting/2012/12/24/121224fa_fact_foer?currentPage=all&mobify=0
 ---
 We can glimpse, glance, visualize, view, look, spy, or ogle. Stare,

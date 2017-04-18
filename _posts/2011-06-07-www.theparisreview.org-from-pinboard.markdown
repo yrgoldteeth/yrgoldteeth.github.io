@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: linkpost
 title: Paris Review - The Art of Fiction No. 158, Shelby Foote
-pinboard: true
 cite_url: http://www.theparisreview.org/interviews/931/the-art-of-fiction-no-158-shelby-foote
-author: Shelby Foote
+cite_author: Shelby Foote
 ---
 INTERVIEWER
   

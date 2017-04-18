@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: Crimes against history are crimes against humanity | Digby
-pinboard: true
-author: David Atkins
+cite_author: David Atkins
 cite_url: http://digbysblog.blogspot.com/2013/01/crimes-against-history-are-crimes.html
 ---
 There are those who will mock me for caring more about dusty old books

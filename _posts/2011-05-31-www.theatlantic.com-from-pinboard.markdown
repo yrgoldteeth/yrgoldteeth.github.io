@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: linkpost
 title: Reading As Cartography - 
-pinboard: true
 cite_url: http://www.theatlantic.com/entertainment/archive/2011/05/reading-as-cartography/239683/
-author: Ta-Nehisi Coates
+cite_author: Ta-Nehisi Coates
 ---
 Books are our most intimate art-form. The reader does a temporary mind-meld with the author, and a collaborative world—their words and our imagination—is conjured from nothing. And because each reader’s mind be his own, each of those conjured worlds, each of those planes, are different. And because the libraries are filled with incredible books, those of us who are readers spend our whole lives creating these private planes, walking them, mapping them, comparing ours with those of other readers, and then returning to our own only to see the contours changed.  And so we map anew.
   

@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: linkpost
 title: University of Alabama Football Report for 12/30/11
-pinboard: true
 cite_url: http://bamareport.blogspot.com/2011/12/university-of-alabama-football-report_30.html
-author: J
+cite_author: J
 ---
 He dreamed he walked the aisle to see Hank Williams lie in repose. A Cadillacwide pearlwhite casket with a black lead sheet inlay along the length denoting the melody of “Ramblin’ Man.” Inside, the man himself. Pale. His dermis thin like phyllo dough. Somehow a smirk cobbled on his lips. The points of his white lapels sharp as rapiers. Fingertips crannied on the brim of the matching hat.
   

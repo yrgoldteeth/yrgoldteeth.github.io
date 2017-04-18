@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: When it comes to rape, Alabama lawmakers would rather deal with fiction than reality
-pinboard: true
-author: Kyle Whitmire
+cite_author: Kyle Whitmire
 cite_url: http://blog.al.com/wire/2014/03/when_it_comes_to_rape_alabama.html
 ---
 Consider what the novel is about: A young woman is all but abandoned by her family, raped by her father and left pregnant by the assault. And she tries, despite all that, to have the child.

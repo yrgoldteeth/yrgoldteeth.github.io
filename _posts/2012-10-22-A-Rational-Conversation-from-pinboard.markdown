@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: A Rational Conversation - Jessica Hopper Parses the Hallowed Return of Godspeed You Black Emperor
-pinboard: true
-author: Eric Drucker and Jessica Hopper
+cite_author: Eric Drucker and Jessica Hopper
 cite_url: http://www.thedailyswarm.com/swarm/rational-conversation-jessica-hopper/
 ---
 ED: It’s been interesting to read the first reviews of the new record. This notion keeps coming up of it being important because nothing out there right now is like it. In Mark Richardson’s Pitchfork review, he wrote, ”[GY!BE] feel out of step in a very necessary way.” It is good to have a band or an artist come around every few years to make you take stock of what you’ve been listening to and why.

@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: Doing it Wrong | Atrios
-pinboard: true
-author: Duncan Black
+cite_author: Duncan Black
 cite_url: http://www.eschatonblog.com/2012/12/youre-doing-it-wrong.html
 ---
 I know, or at least hope, that reading online newspaper comments is not

@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: The Illogic of Employer-Sponsored Health Insurance
-pinboard: true
-author: Uwe E. Reinhardt
+cite_author: Uwe E. Reinhardt
 cite_url: http://www.nytimes.com/2014/07/03/upshot/the-illogic-of-employer-sponsored-health-insurance.html
 ---
 The ruling raises the question of why, uniquely in the industrialized world, Americans have for so long favored an arrangement in health insurance that endows their employers with the quasi-parental power to choose the options that employees may be granted in the market for health insurance. For many smaller firms, that choice is narrowed to one or two alternatives – not much more choice than that afforded citizens under a single-payer health insurance system.

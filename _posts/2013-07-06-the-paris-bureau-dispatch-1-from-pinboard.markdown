@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: The Paris Bureau -- Dispatch #1
-pinboard: true
-author: Ta-Nehisi Coates
+cite_author: Ta-Nehisi Coates
 cite_url: http://www.theatlantic.com/international/archive/2013/07/the-paris-bureau-dispatch-1/277559/
 ---
 But the game is rigged. I know this because I loved my craft for many

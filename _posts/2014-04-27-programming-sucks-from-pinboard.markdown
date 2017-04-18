@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: linkpost
 title: Programming Sucks
-pinboard: true
-author: Peter Welch
+cite_author: Peter Welch
 cite_url: http://stilldrinking.org/programming-sucks
 ---
 Every programmer occasionally, when nobody's home, turns off the lights, pours a glass of scotch, puts on some light German electronica, and opens up a file on their computer. It's a different file for every programmer. Sometimes they wrote it, sometimes they found it and knew they had to save it. They read over the lines, and weep at their beauty, then the tears turn bitter as they remember the rest of the files and the inevitable collapse of all that is good and true in the world.
