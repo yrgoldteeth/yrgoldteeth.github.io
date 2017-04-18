@@ -1,0 +1,9 @@
+---
+layout: post
+title: visits (After The Storm)
+pinboard: true
+cite_url: http://www.economist.com/blogs/democracyinamerica/2011/04/tornadoes_american_south
+author: The Economist
+---
+But they also skirted much of Alabama. Such is the nature of tornadoes: even large ones deliver not the broad, flattening destruction of a hurricane, but pinpoint devastation.  
+

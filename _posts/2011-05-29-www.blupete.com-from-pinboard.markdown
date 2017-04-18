@@ -1,0 +1,11 @@
+---
+layout: post
+title: Elegy Written in a Country Church-Yard
+pinboard: true
+cite_url: http://www.blupete.com/Literature/Poetry/Elegy.htm
+author: Thomas Gray
+---
+Full many a flower is born to blush unseen,
+  
+And waste its sweetness on the desert air.  
+

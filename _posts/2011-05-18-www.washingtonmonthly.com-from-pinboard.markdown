@@ -1,0 +1,9 @@
+---
+layout: post
+title: The Washington Monthly - The Magazine - The Information Sage
+pinboard: true
+cite_url: http://www.washingtonmonthly.com/magazine/mayjune_2011/features/the_information_sage029137.php?page=all&print=true
+author: Joshua Yaffa
+---
+Good design, then, is not about making dull numbers somehow become magically exhilarating, it is about picking the right numbers in the first place.  
+
